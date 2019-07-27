@@ -1,6 +1,8 @@
 # ComputerGraphicsWeek4
 
+
 ## 4주차. Modern OpenGL
+
 
 ### 1.	주어진 Old Style의 샘플을 Modern style인 glDrawArrays() 방법과 glDrawElements()로 각각 변경하시오. (60점)
 
